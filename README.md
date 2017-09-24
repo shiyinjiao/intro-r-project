@@ -4,5 +4,3 @@ Written by Nicholas Knoblauch
 We're saving in nano!
 
 We're in the cloud!
-
-README's are great!
